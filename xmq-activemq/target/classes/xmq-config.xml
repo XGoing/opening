@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mq>
+    <connect-url>xmq:activeMQ:ps://localhost:61616</connect-url>
+    <!--消息接收确认策略-->
+    <confirm-policy>0</confirm-policy>
+    <!--持久化消息-->
+    <persistence>true</persistence>
+    <!--消息过期时间-->
+    <expire-time>-1</expire-time>
+    <!--持久订阅-->
+    <durable-subscription>false</durable-subscription>
+    <producer>
+    </producer>
+
+    <consumer>
+    </consumer>
+</mq>

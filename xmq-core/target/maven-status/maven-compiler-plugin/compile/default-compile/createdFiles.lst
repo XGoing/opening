@@ -1,0 +1,15 @@
+com\xgoing\xmq\core\connection\XConnection.class
+com\xgoing\xmq\core\configuration\XMQConfiguration$XmlConfigFactory.class
+com\xgoing\xmq\core\driver\XMQDriver$MQDriverType.class
+com\xgoing\xmq\core\listener\XListener.class
+com\xgoing\xmq\core\configuration\XMQConfiguration$1.class
+com\xgoing\xmq\core\destination\XDestination.class
+com\xgoing\xmq\core\configuration\XMQConfiguration.class
+com\xgoing\xmq\core\configuration\XConfiguration.class
+com\xgoing\xmq\core\url\handler\XConnectUrlResolver.class
+com\xgoing\xmq\core\consumer\XConsumer.class
+com\xgoing\xmq\core\driver\XMQDriverManager.class
+com\xgoing\xmq\core\producer\XProducer.class
+com\xgoing\xmq\core\message\XMessage.class
+com\xgoing\xmq\core\driver\XMQDriver.class
+com\xgoing\xmq\core\exception\XMQException.class

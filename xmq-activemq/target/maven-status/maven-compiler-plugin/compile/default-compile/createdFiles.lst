@@ -1,0 +1,12 @@
+com\xgoing\xmq\activemq\connection\XActiveMQConnectionFactory$XActiveMqConnectUrlResolver.class
+com\xgoing\xmq\activemq\consumer\XActiveMQConsumer.class
+com\xgoing\xmq\activemq\connection\XActiveMQConnection.class
+com\xgoing\xmq\activemq\driver\XActiveMQDriver.class
+com\xgoing\xmq\activemq\connection\ConnectionFactory.class
+com\xgoing\xmq\activemq\connection\XActiveMQConnectionFactory$1.class
+com\xgoing\xmq\activemq\connection\XActiveMQConnectionFactory.class
+com\xgoing\xmq\activemq\producer\XActiveMQProducer.class
+com\xgoing\xmq\activemq\driver\XActiveMQDriverBase.class
+com\xgoing\xmq\activemq\guice\module\XActiveMQModule.class
+com\xgoing\xmq\activemq\message\XBytesMessage.class
+com\xgoing\xmq\activemq\listener\XActiveMQConsumerListenerAdapter.class

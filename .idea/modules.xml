@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xmq.iml" filepath="$PROJECT_DIR$/xmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmq/xmq-activemq/xmq-activemq.iml" filepath="$PROJECT_DIR$/../xmq/xmq-activemq/xmq-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmq/xmq-core/xmq-core.iml" filepath="$PROJECT_DIR$/../xmq/xmq-core/xmq-core.iml" />
+    </modules>
+  </component>
+</project>

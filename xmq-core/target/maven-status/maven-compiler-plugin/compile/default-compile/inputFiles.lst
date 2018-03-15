@@ -1,0 +1,12 @@
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\exception\XMQException.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\consumer\XConsumer.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\driver\XMQDriver.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\producer\XProducer.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\url\handler\XConnectUrlResolver.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\configuration\XMQConfiguration.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\driver\XMQDriverManager.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\connection\XConnection.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\configuration\XConfiguration.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\destination\XDestination.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\listener\XListener.java
+F:\xmq\xmq-core\src\main\java\com\xgoing\xmq\core\message\XMessage.java
